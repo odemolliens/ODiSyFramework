@@ -1,7 +1,7 @@
 ODiSyFramework
 ==============
 
-ODiSyFramework
+Easy way to generate/use .framework project (including resources)
 
 
 
